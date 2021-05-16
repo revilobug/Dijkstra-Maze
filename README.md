@@ -1,1 +1,1 @@
-# lihenryhfl.github.io
+# Code implementing Dijkstra's algorithm on simple maze.
